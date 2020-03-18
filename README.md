@@ -6,7 +6,7 @@ In response to the COVID-19 pandemic, the White House and a coalition of leading
 
 # Accessing the Dataset
 
-We have made this dataset available on Kaggle, and are periodically updating it from its source. To learn more and access the latest copy of the dataset, you can also go here: https://pages.semanticscholar.org/coronavirus-research.
+This dataset available on Kaggle, and are periodically updating it from its source. To learn more and access the latest copy of the dataset, you can also go here: https://pages.semanticscholar.org/coronavirus-research.
 
 The licenses for each dataset can be found in the all _ sources _ metadata csv file.
 
