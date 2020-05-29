@@ -12,7 +12,7 @@ The licenses for each dataset can be found in the all _ sources _ metadata csv f
 
 ## Model Description
 
-The notebook uses state-of-art NLP model ELMO to find the research articles most relevant to a search query. In the next step it gives a concise summary of all the available research articles using state-of-art BERT-Sum.
+The notebook uses state-of-art NLP model ELMO to find the research articles most relevant to a search query. In the next step it gives a concise summary of all the available research articles using state-of-art language model BERT-Sum.
 
 ## Acknowledgements
 
